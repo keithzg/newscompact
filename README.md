@@ -10,11 +10,11 @@ Requires the News app and App Framework [from GitHub master](https://github.com/
 
 - Clone the **News Compatct** app into the **/var/www** directory:
 
-    https://github.com/Raydiation/newscompact.git
+      git clone https://github.com/Raydiation/newscompact.git
 
 - Link it into ownCloud's apps folder:
 
-    ln -s /var/www/newscompact /var/www/owncloud/apps
+      ln -s /var/www/newscompact /var/www/owncloud/apps
 
 - Activate the **News Compact** App in the apps menu
 
@@ -22,4 +22,4 @@ Requires the News app and App Framework [from GitHub master](https://github.com/
 
 To create the zip which should be distributed over the app store you can use the Makefile to generate a zip from the current git repository:
 
-	make dist
+    make dist
