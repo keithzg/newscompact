@@ -4,13 +4,13 @@ Simple proof of concept for a title only view addon for the news app. If you're 
 
 ## Installation
 
-- Clone the **News Compatct** app into the **/var/www** directory::
+- Clone the **News Compatct** app into the **/var/www** directory:
 
-	https://github.com/Raydiation/newscompact.git
+    https://github.com/Raydiation/newscompact.git
 
-- Link it into ownCloud's apps folder::
+- Link it into ownCloud's apps folder:
 
-	ln -s /var/www/newscompact /var/www/owncloud/apps
+    ln -s /var/www/newscompact /var/www/owncloud/apps
 
 - Activate the **News Compact** App in the apps menu
 
