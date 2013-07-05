@@ -2,6 +2,10 @@
 
 Simple proof of concept for a title only view addon for the news app. If you're interested in maintaining it, please contact me or simply fork it.
 
+## Requirements
+
+Requires the News app and App Framework [from GitHub master](https://github.com/owncloud/news#git-development-version)
+
 ## Installation
 
 - Clone the **News Compatct** app into the **/var/www** directory:
