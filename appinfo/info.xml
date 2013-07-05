@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>newscompact</id>
+	<name>News Compact</name>
+	<description>Compact view for the news app</description>
+	<licence>AGPLv3</licence>
+	<author>Bernhard Posselt</author>
+	<version>0.001</version>
+	<require>5.0.0</require>
+</info>

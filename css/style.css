@@ -1,0 +1,17 @@
+.feed_item:not(.opened) {
+	min-height: 0 !important;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+	.feed_item:not(.opened) .item_author {
+		display: none;
+	}
+
+	.feed_item:not(.opened) .body {
+		display: none;
+	}
+
+	.feed_item:not(.opened) .bottom_utils {
+		display: none;
+	}
